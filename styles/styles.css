@@ -1,0 +1,50 @@
+.header-container {
+    background-color: rgb(140, 200, 202);
+}
+.title {
+    font-size: 40px;
+    color: dodgerblue;
+}
+.navigation-holder {
+    font-size: 50px;
+    color: floralwhite;
+    text-align: center;
+    padding: 20px;
+    border: 2px  whitesmoke;
+    margin: 0px 60px 100px 160px;
+    width: 600px;
+    
+
+}
+.copyright{
+
+    font-size: 25px;
+    color:steelblue;
+}
+.cover-image{
+    background-image: url("../img/background.jpg");
+  
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+
+}
+.cover-content h1{
+    color: whitesmoke;
+    font-size: 60px;
+    text-align: center;
+
+}
+.cover-content a {
+
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.cover-content button{
+    text-align: center;
+}
+
+
